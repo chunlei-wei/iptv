@@ -145,11 +145,11 @@ http://192.168.1.1:4000/rtp/225.1.1.236:5002
 http://192.168.1.1:4000/rtp/225.1.1.237:5002
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" group-title="SITV",动漫秀场HD
 http://192.168.1.1:4000/rtp/225.1.1.134:5002
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="CHC",CHC家庭影院HD
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="影视",CHC家庭影院HD
 http://192.168.1.1:4000/rtp/225.1.1.213:5002
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" group-title="CHC",CHC高清电影HD
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" group-title="影视",CHC高清电影HD
 http://192.168.1.1:4000/rtp/225.1.1.214:5002
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="CHC",CHC动作电影HD
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="影视",CHC动作电影HD
 http://192.168.1.1:4000/rtp/225.1.1.215:5002
 #EXTINF:-1 group-title="影视",经典老片场HD
 http://192.168.1.1:4000/rtp/225.1.2.123:5002
