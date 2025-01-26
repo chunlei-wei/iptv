@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/livednow.xml,https://epg.112114.xyz/pp.xml,https://live.fanmingming.com/e.xml"
 #EXTINF:-1,tvg-id="IPTV导视" tvg-name="IPTV导视" group-title="天津",IPTV导视 
 http://192.168.1.1:4000/rtp/225.1.1.77:5002
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="天津",天津卫视HD
