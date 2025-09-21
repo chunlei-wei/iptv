@@ -281,10 +281,8 @@ http://192.168.1.1:4000/rtp/225.1.2.132:5002
 http://192.168.1.1:4000/rtp/225.1.1.243:5002
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="连播频道",天视文旅
 http://192.168.1.1:4000/rtp/225.1.2.123:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="连播频道",IPTV导视-联通1 SD
-#http://192.168.1.1:4000/rtp/225.1.1.64:5001
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="连播频道",IPTV导视-联通 SD
-http://192.168.1.1:4000/rtp/225.1.1.100:5001
+#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="连播频道",IPTV导视-联通
+http://192.168.1.1:4000/rtp/225.1.1.77:5002
 #EXTINF:-1 tvg-name="IPTV3+" tvg-logo="http://iptv.im2k.com/logo/IPTV3+.png" group-title="连播频道",IPTV3+ SD
 http://192.168.1.1:4000/rtp/225.1.1.201:5002
 #EXTINF:-1 tvg-name="IPTV5+" tvg-logo="http://iptv.im2k.com/logo/IPTV5+.png" group-title="连播频道",IPTV5+
@@ -343,3 +341,4 @@ http://192.168.1.1:4000/rtp/225.1.1.178:5002
 http://192.168.1.1:4000/rtp/225.1.1.179:5002
 #EXTINF:-1 tvg-name="天津经典音乐广播" tvg-logo="http://iptv.im2k.com/logo/TPBS.png" group-title="音频广播",天津经典音乐广播
 http://192.168.1.1:4000/rtp/225.1.1.180:5002
+
